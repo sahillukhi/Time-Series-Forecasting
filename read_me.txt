@@ -1,0 +1,4 @@
+- Conducted time series analysis on hourly energy consumption data from PJM East, employing XGBoost regression for future prediction.
+- Utilized feature creation, time series splitting, and XGBoost regression techniques.
+- Visualized data through time series plots, box plots, and comparisons of predicted and actual data to evaluate model performance.
+- Demonstrated the application of machine learning for forecasting energy consumption patterns and predicting future trends.
